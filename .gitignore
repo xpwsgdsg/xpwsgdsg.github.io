@@ -1,2 +1,6 @@
 .DS_Store
 .deploy_git/
+.DS_Store
+public/
+.deploy_git/
+db.json
